@@ -1,6 +1,11 @@
-Hello, I am vileDev. I am an ameateur and aspiring programmer / game designer working on a personal passion project with a close friend of mine. I am also an artist and writer.
-he/they. INTP. 
+he/they. INTP. ENG. 日本語が学ぶている。
 
-Certifications: Unity Artist, Adobe Illustrator, Adobe Photoshop, IT+ Fundamentals
+university student, going for a bachelor's in game development.
 
-Currently learning Autodesk Maya.
+artist and writer
+
+voice synth user
+
+certifications: Unity Artist, Adobe Illustrator, Adobe Photoshop, IT+ Fundamentals
+
+currently learning Autodesk Maya, Blender, and C++.
